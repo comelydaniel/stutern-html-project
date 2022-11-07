@@ -1,0 +1,19 @@
+td, th {
+    border: 2px solid black;
+    padding: 3px;
+}
+
+#food-card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 23%;
+    padding: 10px;
+}
+
+.card img {
+    width: 100%;
+}
+
